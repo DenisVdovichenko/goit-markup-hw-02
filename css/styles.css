@@ -1,59 +1,35 @@
-/* Body */
+/* root */
+:root {
+
+}
+
+/* body */
 
 body {
 font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
 font-size: 16px;
-line-height: 24px;
+line-height: 1.5;
 letter-spacing: 0.02em;
 }
 
-button {
-    cursor: pointer;
+/* header */
+
+.logo-up {
+    color: #2E2F42;
+}
+/* main */
+
+/* nav */
+.no-line {
+    text-decoration: none;
 }
 
-.header {
-
+.list-li {
+    list-style-type: none;
 }
 
-.header-logo {
+/* footer */
 
-}
-
-.header-img {
-
-}
-
-.header-nav {
-
-}
-
-.header-list {
-
-}
-
-.header-item {
-
-}
-
-.header-link {
-
-}
-
-.header-item {
-
-}
-
-.header-link:hover,
-.header-link:focus {
-
-}
-
-.header-contact {
-
-}
-
-.header-btn {
-
+.logo-down {
+    color: #F4F4FD;
 }
