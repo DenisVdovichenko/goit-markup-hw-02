@@ -50,7 +50,7 @@
    }
 
    .normalize {
-    font-style: normal
+    font-style: normal;
    }
     
 
@@ -62,7 +62,7 @@
     line-height: 1.8em;
     text-align: center;
     letter-spacing: 0.02em;
-    color: var(--primary-white-color)
+    color: var(--primary-white-color);
    }
    
    .title {
@@ -100,6 +100,7 @@
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5em;
+    letter-spacing: 0.04em;
     cursor: pointer;
     color: var(--accent-text);
     background-color: var(--light-mode);
@@ -142,6 +143,10 @@
        text-align: center;
    }
    
+   .other-text {
+    color: var(--primary-text-color);
+   }
+
    /* footer */
 
    .footer-color {
@@ -155,10 +160,10 @@
    .logo-footer {
     color: var(--accent-text);
     text-decoration: none;
-    font-family: 'Raleway';
+    font-family: 'Raleway', sans-serif;
     font-weight: 800;
     font-size: 18px;
-    line-height: 1.7em;
+    line-height: 1.17em;
     display: flex;
     align-items: center;
     letter-spacing: 0.03em;
