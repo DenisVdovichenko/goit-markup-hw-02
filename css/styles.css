@@ -27,6 +27,10 @@ body {
 
 /* header */
 
+.adr {
+  color: var(--primary-text-color);
+}
+
 .header-title {
   font-weight: 500;
   color: var(--title-text);
