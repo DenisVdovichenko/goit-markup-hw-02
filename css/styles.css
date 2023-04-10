@@ -127,6 +127,10 @@ body {
   background-color: var(--light-mode);
 }
 
+.accent {
+  color: var(--primary-text-color);
+}
+
 .accent:hover,
 .accent:focus {
   color: var(--pressed-state);
