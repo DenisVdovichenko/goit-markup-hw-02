@@ -76,7 +76,6 @@ body {
 
 .list {
   list-style-type: none;
-  background-color: var(--primary-white-color);
 }
 
 .link {
@@ -118,6 +117,10 @@ body {
 
 .section-hd-color {
   background-color: var(--title-text);
+}
+
+.name-color {
+  background-color: var(--primary-white-color);
 }
 
 .section-team-color {
