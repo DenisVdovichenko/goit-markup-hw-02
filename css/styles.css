@@ -148,6 +148,10 @@ body {
   color: var(--primary-text-color);
 }
 
+.par {
+  color: var(--primary-text-color);
+}
+
 /* footer */
 
 .footer-color {
